@@ -1,0 +1,8 @@
+prefix=/home/zixing/ultrasound_robot/install
+
+Name: learning_ur
+Description: Description of learning_ur
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
